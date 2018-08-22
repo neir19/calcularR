@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="band2">
+        <item>2nd</item>
+        <item>negro</item>
+        <item>cafe</item>
+        <item>rojo</item>
+        <item>naranja</item>
+        <item>amarillo</item>
+        <item>verde</item>
+        <item>azul</item>
+        <item>purpura</item>
+        <item>gris</item>
+        <item>blanco</item>
+
+    </string-array>
+</resources>
